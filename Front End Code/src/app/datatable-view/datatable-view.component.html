@@ -1,0 +1,40 @@
+<br>
+<div class="container">
+  <h1>Users Table</h1>
+  <br>
+  <hr>
+  <div>
+    <div class="form-group">
+      <label for="userName" class="control-label">Name</label>
+      <input type="text" (keyup)="search()" class="form-control" id="userName" name="userName" [(ngModel)]="userName">
+    </div>
+  </div>  
+  <br>  
+  <div [class.ngHide]="searchCriteria.isPageLoad">
+    <table datatable class="table table-striped" [dtOptions]="dtOptions" [dtTrigger]="dtTrigger">
+      <thead>
+        <tr>
+          <td>ID</td>
+          <td>Name</td>
+          <td>Email</td>
+          <td>Company</td>
+          <td>Contact Number</td>
+        </tr>
+      </thead>
+      <tbody *ngIf="users != null || users?.length != 0">
+        <tr *ngFor="let user of users">
+          <td style="width:2%">{{user.ID}}</td>
+          <td style="width:10%">{{user.Name}}</td>
+          <td style="width:30%">{{user.Email}}</td>
+          <td style="width:40%">{{user.Company}}</td>
+          <td style="width:18%">{{user.ContactNumber}}</td>
+        </tr>
+      </tbody>
+      <tbody *ngIf="users == null || users?.length == 0">
+        <tr>
+          <td colspan="5" class="no-data-available">No data!</td>
+        </tr>
+      <tbody>
+    </table>
+  </div>
+</div>
