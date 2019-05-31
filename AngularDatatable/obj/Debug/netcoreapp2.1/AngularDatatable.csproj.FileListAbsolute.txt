@@ -1,0 +1,14 @@
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.deps.json
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.runtimeconfig.json
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.runtimeconfig.dev.json
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.dll
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\bin\Debug\netcoreapp2.1\AngularDatatable.pdb
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.csproj.CoreCompileInputs.cache
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorAssemblyInfo.cache
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorAssemblyInfo.cs
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.AssemblyInfoInputs.cache
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.AssemblyInfo.cs
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.RazorTargetAssemblyInfo.cache
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.dll
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.pdb
+C:\Users\Dhiren\Desktop\Source Codes\AngularDatatable\AngularDatatable\obj\Debug\netcoreapp2.1\AngularDatatable.csprojAssemblyReference.cache
